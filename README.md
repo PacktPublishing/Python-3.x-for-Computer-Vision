@@ -1,6 +1,6 @@
 # Python-3.x-for-Computer-Vision
 
-This is the code repository for [Python 3.x for Computer Vision [Video]](https://www.packtpub.com/w), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Python 3.x for Computer Vision [Video]](https://prod.packtpub.com/in/application-development/python-3x-computer-vision-video-0), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 
 
